@@ -9,6 +9,27 @@
     "ZIP": "10435",
     "ADDRESS": "Schönhauser Allee 155",
     "NAME": "Baden im Wein" },
-  "geometry": { "type": "Point", "coordinates": [ 13.411639, 52.537693 ] } }
+    "geometry": { "type": "Point", "coordinates": [ 13.411639, 52.537693 ] } },
+  { "type": "Feature", "properties": {
+    "WEB_URL": "https:\/\/www.facebook.com/pages/Scotch-Sofa/224356247609537?sk=timeline&ref=page_internal",
+    "PHONE": "+49 30 68004203",
+    "ZIP": "10405",
+    "ADDRESS": "Kollwitzstraße 18",
+    "NAME": "Scotch & Sofa" },
+    "geometry": { "type": "Point", "coordinates": [ 13.414427, 52.532667 ] } },
+  { "type": "Feature", "properties": {
+    "WEB_URL": "http:\/\/www.bravebelgians.be",
+    "PHONE": "030 44312854",
+    "ZIP": "10119",
+    "ADDRESS": "Schönhauser Allee 173",
+    "NAME": "HERMAN Belgian Bar" },
+    "geometry": { "type": "Point", "coordinates": [ 13.412198, 52.532399 ] } },
+  { "type": "Feature", "properties": {
+    "WEB_URL": "http:\/\/www.vagabundbrauerei.com",
+    "PHONE": "+49 30 52667668",
+    "ZIP": "13353",
+    "ADDRESS": "Antwerpener Str. 3",
+    "NAME": "Vagabund Brauerei" },
+    "geometry": { "type": "Point", "coordinates": [ 13.349295, 52.547977 ] } },
 ]
 }
