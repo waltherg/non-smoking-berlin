@@ -9,6 +9,6 @@
     "ZIP": "10435",
     "ADDRESS": "Schönhauser Allee 155",
     "NAME": "Baden im Wein" },
-  "geometry": { "type": "Point", "coordinates": [ 52.537693, 13.411639] } }
+  "geometry": { "type": "Point", "coordinates": [ 13.411639, 52.537693 ] } }
 ]
 }
