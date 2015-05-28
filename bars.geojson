@@ -72,6 +72,13 @@
     "ZIP": "12047",
     "ADDRESS": "Weserstraße 204",
     "NAME": "Vin Aqua Vin" },
-    "geometry": { "type": "Point", "coordinates": [ 13.430666, 52.488017 ] } }
+    "geometry": { "type": "Point", "coordinates": [ 13.430666, 52.488017 ] } },
+  { "type": "Feature", "properties": {
+    "WEB_URL": "http:\/\/www.schwarzescafe-berlin.de/www.schwarzescafe-berlin.de/SchwarzesCafe.html",
+    "PHONE": "+49 30 3138038",
+    "ZIP": "10623",
+    "ADDRESS": "Kantstraße 148",
+    "NAME": "Schwarzes Café" },
+    "geometry": { "type": "Point", "coordinates": [ 13.324038, 52.505617 ] } }
 ]
 }
