@@ -30,6 +30,48 @@
     "ZIP": "13353",
     "ADDRESS": "Antwerpener Str. 3",
     "NAME": "Vagabund Brauerei" },
-    "geometry": { "type": "Point", "coordinates": [ 13.349295, 52.547977 ] } }
+    "geometry": { "type": "Point", "coordinates": [ 13.349295, 52.547977 ] } },
+  { "type": "Feature", "properties": {
+    "WEB_URL": "http:\/\/aplacecalledmyxa.tumblr.com",
+    "PHONE": "+49 30 68324447",
+    "ZIP": "12047",
+    "ADDRESS": "Lenaustraße 22",
+    "NAME": "Myxa Berlin" },
+    "geometry": { "type": "Point", "coordinates": [ 13.426741, 52.490404 ] } },
+  { "type": "Feature", "properties": {
+    "WEB_URL": "http:\/\/www.suedblock.org/wp/",
+    "PHONE": "+49 30 60941853",
+    "ZIP": "10999",
+    "ADDRESS": "Admiralstraße 1-2",
+    "NAME": "Südblock" },
+    "geometry": { "type": "Point", "coordinates": [ 13.416934, 52.498725 ] } },
+  { "type": "Feature", "properties": {
+    "WEB_URL": "http:\/\/braufest-berlin.de/en/",
+    "PHONE": "+49 30 88061080",
+    "ZIP": "10997",
+    "ADDRESS": "Sorauer Str. 31",
+    "NAME": "Hopfenreich" },
+    "geometry": { "type": "Point", "coordinates": [ 13.439269, 52.499618 ] } },
+  { "type": "Feature", "properties": {
+    "WEB_URL": "http:\/\/www.luzia.tc",
+    "PHONE": "+49 30 81799958",
+    "ZIP": "10999",
+    "ADDRESS": "Oranienstraße 34",
+    "NAME": "Café Luzia" },
+    "geometry": { "type": "Point", "coordinates": [ 13.418292, 52.501884 ] } },
+  { "type": "Feature", "properties": {
+    "WEB_URL": "http:\/\/www.nstp.de",
+    "PHONE": "+49 30 61074029",
+    "ZIP": "10997",
+    "ADDRESS": "Schlesische Str. 42",
+    "NAME": "Wendel" },
+    "geometry": { "type": "Point", "coordinates": [ 13.443462, 52.500733 ] } },
+  { "type": "Feature", "properties": {
+    "WEB_URL": "http:\/\/vinaquavin.de",
+    "PHONE": "+49 30 94052886",
+    "ZIP": "12047",
+    "ADDRESS": "Weserstraße 204",
+    "NAME": "Vin Aqua Vin" },
+    "geometry": { "type": "Point", "coordinates": [ 13.430666, 52.488017 ] } }
 ]
 }
